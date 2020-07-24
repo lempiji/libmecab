@@ -1,0 +1,5 @@
+name "libmecab"
+description "A wrapper for MeCab"
+authors "lempiji"
+license "MIT"
+dependency "bindbc-mecab" version="~>1.0.0"

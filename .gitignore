@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/libmecab
+libmecab.so
+libmecab.dylib
+libmecab.dll
+libmecab.a
+libmecab.lib
+libmecab-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bindbc-loader": "0.3.1",
+		"bindbc-mecab": "1.0.0"
+	}
+}
